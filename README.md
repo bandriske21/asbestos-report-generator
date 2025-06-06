@@ -6,7 +6,7 @@ A web-based tool that automatically converts Environmental & Laboratory Solution
 
 ## 🚀 Live Demo
 
-**[Try it now: https://YOUR-USERNAME.github.io/asbestos-report-generator](https://YOUR-USERNAME.github.io/asbestos-report-generator)**
+**[Try it now: https://bandriske21.github.io/asbestos-report-generator](https://YOUR-USERNAME.github.io/asbestos-report-generator)**
 
 ## ✨ Features
 
